@@ -8,7 +8,11 @@ const emojiDictionary = {
   "🍉": "Watermelon",
   "🧭": "Compass",
   "⛰️": "Mountain",
-  "🏴": "Black Flag"
+  "🏴": "Black Flag",
+  "😂":"Face with Tears of Joy",
+  "🤩":"Star-Struck",
+  "🙈":"See-No-Evil Monkey",
+  "❤️‍🔥":"Heart on Fire"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
